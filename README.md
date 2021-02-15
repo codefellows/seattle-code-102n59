@@ -1,6 +1,3 @@
-<!-- Please make EDITS to README -->
-<!-- Please make EDITS to README -->
-
 # Code 102: Intro to Software Development
 
 ## Welcome to Code Fellows!
@@ -11,10 +8,9 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT,  email: EDIT, slack: EDIT
+Instructor: Michelle Ferreirae,  email: michelle@codefellows.com, slack: @Michelle
 
-
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/2535359)**
 
 ### Course Schedule
 
@@ -31,7 +27,8 @@ Instructor: EDIT,  email: EDIT, slack: EDIT
 
 ### Tips for Success
 
-- Get ready to tackle some seriously ambitious material! You'll have the most success if you:
+Get ready to tackle some seriously ambitious material! You'll have the most success if you:
+
 - Take notes during class.
 - Keep up with the daily assignments (code and reading).
 - Research topics that are new or confusing.
