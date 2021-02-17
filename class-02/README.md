@@ -12,6 +12,8 @@
 
 ## Class Agenda
 
+- Announcements
+  - FrontRow is fixed! That's where you'll find class recordings from now on.
 - Review of previous class
   - Share your learning
 - Developer Tools
