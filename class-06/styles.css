@@ -1,0 +1,48 @@
+body {
+  background-color: #CCCCCC;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+h1 {
+
+  text-align: center;
+  /*padding-top: 10px;
+  padding-bottom: 10px;*/
+  padding: 10px 0; /* TRBL */
+  font-family: 'Amatic SC', cursive;
+  font-size: 70px;
+  margin: 20px;
+}
+
+nav > ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+li a:link {
+  color: #fff;
+}
+
+article {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.background {
+  background-color: #170A1D;
+}
+
+footer {
+  text-align: center;
+  background-color: seagreen;
+}
