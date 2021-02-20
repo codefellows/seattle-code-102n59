@@ -1,3 +1,19 @@
 body {
-  background-color: blueviolet;
+  background-color: #CCCCCC;
+  font-family: 'Andika New Basic', sans-serif;
+}
+
+h1 {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  /*padding-top: 10px;
+  padding-bottom: 10px;*/
+  padding: 10px 0; /* TRBL */
+  font-family: 'Amatic SC', cursive;
+  font-size: 70px;
+}
+
+.background {
+  background-color: #170A1D;
 }
