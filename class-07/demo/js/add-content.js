@@ -1,33 +1,23 @@
+// let today = new Date();
+let hourNow = prompt('What time is it, friend? 0-23'); // declaring the hourNow variable and assigning it the value that the user typed in response to a prompt
+let greeting; // declaring the greeting variable
 
-function createGreeting() {
-  let hourNow = prompt('What\'s the hour?');
-  let greeting;
-  
-  if (hourNow > 18) {
-    greeting = 'Good evening!';
-  } else if (hourNow > 12) {
-    greeting = 'Good afternoon!';
-  } else if (hourNow > 0) {
-    greeting = 'Good morning!';
-  } else {
-    greeting = 'Welcome!';
-  }
-  
-  return '<h3>'+ greeting + '</h3>';
+// if the number the user entered is between 18 and 24, set the value of the greeting variable to be Good evening, Class!
+if (hourNow >= 18 && hourNow < 24) {
+  greeting = 'Good evening, Class!';
+} else if (hourNow >= 12 && hourNow < 24) {
+  greeting = 'Good afternoon, Class!';
+} else if (hourNow >= 0 && hourNow < 24) {
+  greeting = 'Good morning!';
+} else {
+  greeting = 'Something went wrong!';
 }
 
-// NOTE: There are 2 ways to define a function...
-let showOrder = function() {
-  let order = prompt('What would you like to order?');
-  let item; 
+document.write(greeting);
+// taking the value of the variable greeting and
+// putting it on the page itself
 
-  if (order === 'house') {
-    item = '<img src="images/house.png" >';
-  } else if (order === 'hotel') {
-    item = '<img src="images/hotel.png" >';
-  } else {
-    item = '<strong>No items ordered</strong>';
-  }
-
-  return item;
-}
+// () parentheses
+// {} curly braces/curly brackets
+// [] square brackets
+// <> angle brackets
