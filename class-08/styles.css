@@ -46,3 +46,7 @@ footer {
   text-align: center;
   background-color: seagreen;
 }
+
+.profile {
+  max-width: 100px;
+}
